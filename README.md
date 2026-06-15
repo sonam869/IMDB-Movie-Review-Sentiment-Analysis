@@ -13,15 +13,6 @@ A Streamlit-based web application that uses a Simple RNN model built with Tensor
 
 ---
 
-## 🖼️ Demo
-
-Add a screenshot or GIF of your application here.
-
-```markdown
-<img width="826" height="534" alt="image" src="https://github.com/user-attachments/assets/3fccab63-5038-4b32-a687-6f2b166c21cb" />
-
-```
-
 ---
 
 ## 📂 Project Structure
